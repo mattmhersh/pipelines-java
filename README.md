@@ -1,3 +1,4 @@
+[![Build Status](https://matthersh.visualstudio.com/XamariniOSDemo/_apis/build/status/mattmhersh.pipelines-java?branchName=master)](https://matthersh.visualstudio.com/XamariniOSDemo/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
